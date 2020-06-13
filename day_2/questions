@@ -1,0 +1,71 @@
+Write a program 
+
+1. Take a 3 inputs from users  as hours, minutes, seconds
+2. Show that the formatted output and tootal seconds.
+
+Write a program,
+1. Take a input from user
+2. Show them celsius to fahren converting
+3. Taka input from user4. 
+4. show them fahren to celsius
+
+Write a Program
+
+Take a string from the user
+show them the given string 
+show the the given string reverse
+
+Write program
+Take a Spee in KmPH
+Conver the kmPh into miles er hours
+
+Write program
+Take a string  3 inputs
+join them show
+
+
+Write Program
+
+take a String 
+Show below outputs
+1. Swapcase
+2.andCaptilize
+3. Title
+4. Reverse
+5. lower, lstrip, rstrip, uuper,casefold, center, count
+
+Try these by your own
+str
+rfind, rindex, isdigit, is lower, isnumeric, isprintable, isspace, isuuper
+
+
+Write a Program
+Take a string as input and find hte lenght of the char
+
+Write Program
+Take a String as input 
+Take a index value as input 
+Show them string and given index value charc
+
+RAM KRISHNA 
+6
+Result : "I"
+
+Write Prgram
+
+take a input as string 
+take me a first index value
+
+take from me a last index value
+sho the full string and sliced string
+
+RAM KRISHN5
+
+9
+ISH
+
+
+Write a Program
+
+Takake a input as a string 
+and take a index first value and last value and show them as the sliced value and sliced reversed value
