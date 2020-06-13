@@ -1,13 +1,5 @@
 Write Program
 
-take a String 
-Show below outputs
-1. Swapcase
-2.andCaptilize
-3. Title
-4. Reverse
-5. lower, lstrip, rstrip, uuper,casefold, center, count
-
 Try these by your own
 str
 rfind, rindex, isdigit, is lower, isnumeric, isprintable, isspace, isuuper
