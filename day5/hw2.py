@@ -10,7 +10,7 @@ print("program started")
 
 temp = int(input("Enter temperature : "))
 
-option = input("enter cel (0)/ far(1): ")
+option = int(input("enter cel (0)/ far(1): "))
 
 if option == 0:
     print("converting given input to celsius")
