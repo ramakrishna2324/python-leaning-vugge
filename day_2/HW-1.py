@@ -21,4 +21,4 @@ Minutes = M * 60
 #Total time
 time = Hours + Minutes + S
 
-print("Total number of seconds=",time)
+print("Total no of secs=",time)
