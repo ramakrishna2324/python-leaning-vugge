@@ -13,4 +13,5 @@ c = a * b
 print("hello, Your requested %s and %d * is : %d" % (a,b,c))
 c = a / b
 print("hello, Your requested %s and %d / is : %d" % (a,b,c))
+
 print("hello, Your requested %s and %d / is : %d" % (a,b,c))
